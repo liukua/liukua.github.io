@@ -1,0 +1,187 @@
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 0;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-item a {
+    color: #ffffff;
+    font-family: "Copperplate", "Arial Black";
+    font-size: 15pt;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 10px;
+    padding-left: 20px;
+}
+
+.nav-link {
+    padding: .5rem 5rem;
+}
+.container1 {
+    width: 80%;
+    margin: auto;
+    box-sizing: border-box;
+
+}
+
+.container2 {
+    width: 80%;
+    margin: auto;
+    box-sizing: border-box;
+padding-top: 10%;
+}
+
+.imge1 {
+    transition: opacity 0.5s ease;
+    width: 100%;
+    height: 100%;
+}
+
+.fw:hover .imge1,
+.fw:focus .imge1 {
+    opacity: 0.5;
+}
+
+
+
+.imge2 {
+    transition: opacity 0.5s ease;
+    width: 100%;
+    height: 100%;
+}
+
+.fw:hover .imge2,
+.fw:focus .imge2 {
+    opacity: 0.5;
+}
+
+.imge3 {
+    transition: opacity 0.5s ease;
+    width: 100%;
+    height: 100%;
+}
+
+.fw:hover .imge3,
+.fw:focus .imge3 {
+    opacity: 0.5;
+}
+
+.imge4 {
+    transition: opacity 0.5s ease;
+    width: 100%;
+    height: 100%;
+}
+
+.fw:hover .imge4,
+.fw:focus .imge4 {
+    opacity: 0.5;
+}
+
+.imge5 {
+    transition: opacity 0.5s ease;
+    width: 100%;
+    height: 100%;
+}
+
+.fw:hover .imge5,
+.fw:focus .imge5 {
+    opacity: 0.5;
+}
+
+
+.imge6 {
+    transition: opacity 0.5s ease;
+    width: 100%;
+    height: 100%;
+}
+
+.fw:hover .imge6,
+.fw:focus .imge6 {
+    opacity: 0.5;
+}
+
+
+.imge7 {
+    transition: opacity 0.5s ease;
+    width: 100%;
+    height: 100%;
+}
+
+.fw:hover .imge7,
+.fw:focus .imge7 {
+    opacity: 0.5;
+}
+
+
+.imge8 {
+    transition: opacity 0.5s ease;
+    width: 100%;
+    height: 100%;
+}
+
+.fw:hover .imge8,
+.fw:focus .imge8 {
+    opacity: 0.5;
+}
+
+.btn {
+    color: #ffffff;
+}
+.footer {
+    padding-top: 5%;
+
+}
+
+.sitemap {
+    padding: 50px 0;
+    overflow: hidden;
+    text-align: center;
+    background-color: #571838;
+}
+
+.column {
+    width: 100%;
+    float: left;
+}
+
+
+
+.sitemap p {
+    font-family: "Copperplate";
+    color: #ffffff;
+}
+
+.text-center {
+    margin: 60px;
+    font-family: "Microsoft JhengHei";
+    color: #683b71;
+    font-weight: 700px;
+}
+
+.top {
+    background: #c480a3;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    box-sizing: border-box;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    font-family: "Copperplate", Fantasy;
+    color: #ffffff;
+}

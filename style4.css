@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 0;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-item a {
+    color: #ffffff;
+    font-family: "Copperplate", "Arial Black";
+    font-size: 15pt;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 10px;
+    padding-left: 20px;
+}
+
+.nav-link {
+    padding: .5rem 5rem;
+}
+
+.container1 {
+    width: 80%;
+    margin: auto;
+    box-sizing: border-box;
+    padding-top: 5%;
+font-family: "Copperplate", Fantasy;
+}
+
+hr {
+    margin-bottom: 2%;
+}
+
+.work {
+    font-family: "Copperplate", Fantasy;
+    color: #571838;
+}
+
+.btn {
+    color: #ffffff;
+}
+
+.card-title {
+    color:#683b71;
+}
+
+.card-text {
+    color:#c480a3;
+}
+
+
+
+
+.footer {
+    padding-top: 5%;
+    position:
+
+}
+
+.sitemap {
+    padding: 50px 0;
+    overflow: hidden;
+    text-align: center;
+    background-color: #571838;
+}
+
+.column {
+    width: 100%;
+    float: left;
+}
+
+
+
+.sitemap p {
+    font-family: "Copperplate";
+    color: #ffffff;
+}
+
+.text-center {
+    margin: 60px;
+    font-family: "Microsoft JhengHei";
+    color: #683b71;
+    font-weight: 700px;
+}
+
+.top {
+    background: #c480a3;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    box-sizing: border-box;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    font-family: "Copperplate", Fantasy;
+    color: #ffffff;
+}

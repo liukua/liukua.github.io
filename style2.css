@@ -1,0 +1,112 @@
+body {
+    margin: 0;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 0;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-item a {
+    color: #ffffff;
+    font-family: "Copperplate", "Arial Black";
+    font-size: 15pt;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 10px;
+    padding-left: 20px;
+}
+
+.nav-link {
+    padding: .5rem 5rem;
+}
+
+.top {
+    background: #c480a3;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    box-sizing: border-box;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    font-family: "Copperplate", Fantasy;
+    color: #ffffff;
+}
+
+.container {
+    width: 80%;
+    box-sizing: border-box;
+}
+
+.container2 {
+    width: 80%;
+    margin: auto;
+    box-sizing: border-box;
+    padding-top: 5%;
+}
+
+.container h4 {
+    font-family: "Copperplate", Fantasy;
+    color: #571838;
+}
+
+.container2 h4 {
+    font-family: "Copperplate", Fantasy;
+    color: #571838;
+}
+
+.card-body h5 {
+    font-family: "Copperplate", Fantasy;
+    color: #62173c;
+    font-weight: bolder;
+}
+
+.card-title {
+    text-align: center;
+}
+
+
+.footer {
+    padding-top: 10%;
+
+}
+
+.sitemap {
+    padding: 50px 0;
+    overflow: hidden;
+    text-align: center;
+    background-color: #571838;
+}
+
+.column {
+    width: 100%;
+    float: left;
+}
+
+
+.sitemap p {
+    font-family: "Copperplate";
+    color: #ffffff;
+}
+
+
+.text-center {
+    margin: 60px;
+    font-family: 'Noto Sans TC';
+    color: #683b71;
+    font-weight: 700px;
+}
